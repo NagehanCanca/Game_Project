@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689870563559",
+    "project_id": "game-f36e1",
+    "storage_bucket": "game-f36e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689870563559:android:2536224712dcfa28501a42",
+        "android_client_info": {
+          "package_name": "com.example.app_architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrn24l2GWQa6Kx5mqdeIZ76pPStqq7WAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
